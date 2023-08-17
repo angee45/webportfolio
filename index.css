@@ -1,0 +1,79 @@
+*{
+	font-family: 'Arvo', serif;
+}
+html, body{
+	scroll-behavior: smooth;
+	height: 100%;
+	color: white;
+	height: 100vh;
+	
+}
+.navbar-toggler {
+    background-color: gray;
+}
+.navbar{
+	position: sticky;
+	background-color: white;
+
+}
+.navbar a{
+	color: black;
+}
+.navbar a:hover{
+	color: gray;
+	overflow: hidden;
+}
+.navbar{
+	position: fixed;
+  	width: 100%;
+ 	 top: 5px;
+  	left: 5px;
+}
+#dev_details{
+	text-align: left;
+}
+#projects h2{
+	color: black;
+	margin: 0;
+}
+#content{
+	background-color: #363636;
+}
+#content1{
+	background-color: white;
+	color: black;
+	/*background: url('./images/bg.jpg');
+	background-repeat: no-repeat;*/
+	
+	margin: 0;
+}
+#projects{
+	background-color: whitesmoke;
+}
+#exampleModalLabel{
+	color: black;
+}
+/*#img_social{
+	21px;
+}*/
+#fa-icons i{
+	font-size: 50px;
+	color: #212326;
+}
+#foots{
+	background-color: white;
+	color: black;
+}
+
+#cards{
+	background-color:#EEEEEE;
+}
+#tools h3{
+	color: black;
+}
+#home img{
+	 height: auto;
+  	width: auto;
+ 	 overflow: hidden;
+}
+#content{
